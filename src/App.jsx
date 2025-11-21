@@ -364,7 +364,7 @@ const Footer = () => {
       <div className="max-w-7xl mx-auto px-6 flex flex-col md:flex-row justify-between items-center gap-8">
          <div className="flex items-center gap-2">
             <EscofilmLogo className="h-6 text-white" />
-            <span className="text-zinc-600 text-xs">© 2025</span>
+            <span className="text-zinc-600 text-xs">© 2025 Escofilm. Todos los derechos reservados.</span>
          </div>
          <div className="flex gap-8">
              <a href="#" className="text-zinc-500 hover:text-white text-xs uppercase tracking-widest transition-colors">Instagram</a>
