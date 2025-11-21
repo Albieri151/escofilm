@@ -290,7 +290,7 @@ const Portfolio = () => {
         </div>
         <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-4 h-auto md:h-[600px]">
             <div className="lg:col-span-2 lg:row-span-2 relative group overflow-hidden bg-zinc-900">
-                <img src="https://images.unsplash.com/photo-1493863641943-9b68992a8d07?w=800&q=80" alt="Fashion" className="w-full h-full object-cover opacity-70 group-hover:opacity-100 group-hover:scale-105 transition-all duration-700"/>
+                <img src="/camarografo.jpg" alt="Fashion" className="w-full h-full object-cover opacity-70 group-hover:opacity-100 group-hover:scale-105 transition-all duration-700"/>
                 <div className="absolute inset-0 bg-gradient-to-t from-black via-transparent to-transparent opacity-80 flex flex-col justify-end p-8">
                     <div className="text-amber-400 text-xs font-bold uppercase tracking-widest mb-2 translate-y-4 opacity-0 group-hover:translate-y-0 group-hover:opacity-100 transition-all duration-500">Campaña Moda</div>
                     <div className="text-white text-2xl font-bold">Vogue Style Shoot</div>
@@ -303,13 +303,13 @@ const Portfolio = () => {
                  </div>
             </div>
             <div className="relative group overflow-hidden bg-zinc-900">
-                 <img src="https://images.unsplash.com/photo-1600607686527-6fb886090705?w=800&q=80" alt="Urban" className="w-full h-full object-cover opacity-70 group-hover:opacity-100 group-hover:scale-105 transition-all duration-700"/>
+                 <img src="/casa.jpg" alt="Urban" className="w-full h-full object-cover opacity-70 group-hover:opacity-100 group-hover:scale-105 transition-all duration-700"/>
                  <div className="absolute inset-0 bg-black/50 opacity-0 group-hover:opacity-100 transition-all flex items-center justify-center">
                     <div className="text-white font-bold text-sm">Urban Brand</div>
                  </div>
             </div>
             <div className="lg:col-span-2 relative group overflow-hidden bg-zinc-900">
-                 <img src="https://images.unsplash.com/photo-1516035069371-29a1b244cc32?w=800&q=80" alt="Events" className="w-full h-full object-cover opacity-70 group-hover:opacity-100 group-hover:scale-105 transition-all duration-700"/>
+                 <img src="/camara.jpg" alt="Events" className="w-full h-full object-cover opacity-70 group-hover:opacity-100 group-hover:scale-105 transition-all duration-700"/>
                  <div className="absolute inset-0 bg-gradient-to-t from-black via-transparent to-transparent opacity-80 flex flex-col justify-end p-8">
                     <div className="text-amber-400 text-xs font-bold uppercase tracking-widest mb-2 translate-y-4 opacity-0 group-hover:translate-y-0 group-hover:opacity-100 transition-all duration-500">Eventos</div>
                     <div className="text-white text-xl font-bold">Conferencia Global Tech</div>
